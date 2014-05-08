@@ -1,0 +1,29 @@
+:script SayNextLine
+:Category Cursor
+
+:script SayPriorLine
+:Category Cursor
+
+:script GoToChannelLog
+:Synopsis LimeChatのチャネルログにフォーカスを移動します。
+
+:script GoToInput
+:Synopsis LimeChatの入力フィールドに移動します。
+
+:script GoToLog
+:Synopsis LimeChatの全体ログにフォーカスを移動します
+
+:script GoToUserList
+:Synopsis チャンネルのユーザリストにフォーカスを移動します
+
+:script GoToServerTree
+:Synopsis LimeChatのサーバツリーにフォーカスを移動します。
+
+:Script SelectAndSayChannel
+:Synopsis LimeChatのチャネル移動コマンドを実行し、移動先のチャネル名称お読み上げます。
+
+:Script MoveChannelUp
+:Synopsis 選択中のチャネルやサーバをツリーの中で上に移動します。
+
+:Script MoveChannelDown
+:Synopsis 選択中のチャネルやサーバをツリーの中で下に移動します。
